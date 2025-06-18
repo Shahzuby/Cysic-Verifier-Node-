@@ -7,6 +7,27 @@ This guide helps you set up a Cysic Verifier Node on a Google Cloud Platform (GC
 
 ## 📦 Requirements
 
+Connect to Wallet
+Go to the Cysic Phase3 Website: https://cysic.xyz/zk
+Join Testnet Phase 3
+
+![image](https://github.com/user-attachments/assets/bc67d1bb-4ba5-4fdd-8dde-750397b102e9)
+
+connect metamask evm wallet
+
+you need to add invite code (compulsory)
+invite code  - ```bash ac535```
+![Screenshot 2025-06-18 144603](https://github.com/user-attachments/assets/8e4ecc8d-cdb5-4833-bec2-67a7f9d9bfb6)
+claim faucet daily 
+connect socials accounts gamil,discord,X
+
+and now you need to connect keplr wallet with same phrase keys same as your meta mask wallet phrase keys 
+![image](https://github.com/user-attachments/assets/b67a7da8-0276-44fc-a22f-d29f90ec2e04)
+
+and now do simple social tasks https://cysic.xyz/socialTask
+![image](https://github.com/user-attachments/assets/d32bd547-c3e1-4669-826f-12a626d48bbf)
+
+
 ### ✅ Recommended GCP VM Specs
 - OS: Ubuntu 22.04 LTS
 - RAM: 4 GB minimum (8 GB preferred)
