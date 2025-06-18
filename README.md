@@ -16,7 +16,10 @@ Join Testnet Phase 3
 connect metamask evm wallet
 
 you need to add invite code (compulsory)
-invite code  - ```bash ac535```
+invite code  - 
+```bash 
+ac535
+```
 
 ![Screenshot 2025-06-18 144603](https://github.com/user-attachments/assets/8e4ecc8d-cdb5-4833-bec2-67a7f9d9bfb6)
 
