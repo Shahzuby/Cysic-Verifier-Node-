@@ -80,7 +80,9 @@ screen -S cysicnode
 ### 3. Clone Cysic verifier repo and add your evm address at end YOUR_EVM_ADDRESS
 ```bash
 # replace 0x-Fill-in-your-reward-address-here with your reward address below
-curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setup_linux.sh > ~/setup_linux.sh && bash ~/setup_linux.sh YOUR_EVM_ADDRESS
+curl -L https://github.com/cysic-labs/cysic-phase3/releases/download/v1.0.0/setup_linux.sh \
+> ~/setup_linux.sh && \
+bash ~/setup_linux.sh 0x-YourRewardAddressHere
 ```
 
 ### 4. Run the Verifier Node
